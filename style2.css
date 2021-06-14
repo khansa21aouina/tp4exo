@@ -1,0 +1,49 @@
+#Triangle{
+    width: 0px;
+	height: 0px;
+	border-top: 100px solid red;
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+
+}
+#Ovale{
+  width : 200px;
+  height : 100px;
+  background : dodgerblue;
+  -moz-border-radius : 100px / 50px;
+  -webkit-border-radius : 100px / 50px;
+  border-radius : 100px / 50px;	
+}
+#Virtualization{
+	width: 300px;
+	height: 350px;
+	background: dodgerblue;
+	border-radius : 20px / 20px;
+}
+div h1{
+	color: white;
+	padding-top: 20px;
+	padding-left: 10px;
+}
+div p{
+  color: white;
+  padding-left: 10px;
+}
+ 
+
+th {
+	background: dodgerblue;
+	color: white;
+}
+tr:nth-child(3)
+{
+  background-color: aliceblue;
+}
+tr:nth-child(5)
+{
+  background-color: aliceblue;
+}
+tr:nth-child(7)
+{
+  background-color: aliceblue; 
+}
